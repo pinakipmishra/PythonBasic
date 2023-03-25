@@ -1,3 +1,8 @@
 1. How to create new branch and push to github
 - Create and checkout to a new branch from your current commit: git checkout -b [branchname]
 - Then, push the new branch up to the remote: git push -u origin [branchname]
+
+2. git bash command on how to change branch
+- git switch” command and specify the name of the branch you want to switch to. 
+If the destination branch does not exist, you have to specify the “-c” option (for “create branch“), 
+otherwise you will get an error message when switching to that branch
