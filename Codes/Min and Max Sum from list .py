@@ -1,3 +1,4 @@
+# Find Minimum and Maximum sum of (n-1) elements from a list of n elements
 num_List = [10,23,4,5,89,123,75]
 
 max_sum = sum(num_List) - min(num_List)
